@@ -3,17 +3,18 @@
 /// ~ Change these values! ~ ///
 
 // YouTube API key
-const APIKEY = "REPLACE_WITH_API_KEY";
+const APIKEY = AIzaSyCfpVBMSz2rFJK3O2tjsfsKDmk5dlyubXA;
 
 // YouTube channel ID(s)
 // Can be multiple channels - eg: `array("aaaaaaaaaaaaaaaaaaaa", "bbbbbbbbbbbbbbbbbbbb")`
-const CHANNELIDS = array("REPLACE_WITH_CHANNEL_ID");
+const CHANNELIDS = array(UCgTRsWgqQyMUdt18beMKHtg);
 
 // Secret - must match ytnotify_subscribe script; should be reasonably hard to guess
-const SECRET = "REPLACE_WITH_UNIQUE_SECRET";
+const SECRET = HVZ5T68AE1WF;
 
 // Discord webhook URL
 const WEBHOOKURL = "REPLACE_WITH_WEBHOOK_URL";
+const WEBHOOKURL = https://discordapp.com/api/webhooks/386394577398923268/QgakZ7FWty668YR9ZtQenETfuQo3zSNqfoqlkcllcLjJFygWQy8HGFGReHFEvsXEEDtk;
 
 ///   ///   ///  ///   ///   ///
 
