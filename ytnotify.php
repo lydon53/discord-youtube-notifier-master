@@ -13,7 +13,6 @@ const CHANNELIDS = array(UCgTRsWgqQyMUdt18beMKHtg);
 const SECRET = HVZ5T68AE1WF;
 
 // Discord webhook URL
-const WEBHOOKURL = "REPLACE_WITH_WEBHOOK_URL";
 const WEBHOOKURL = https://discordapp.com/api/webhooks/386394577398923268/QgakZ7FWty668YR9ZtQenETfuQo3zSNqfoqlkcllcLjJFygWQy8HGFGReHFEvsXEEDtk;
 
 ///   ///   ///  ///   ///   ///
